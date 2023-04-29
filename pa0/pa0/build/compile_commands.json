@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/icecreamsakaz/桌面/CG learning/GAMES101/pa0/pa0/build",
+  "command": "/usr/bin/c++  -I\"/home/icecreamsakaz/桌面/CG learning/GAMES101/pa0/pa0/EIGEN3_INCLUDE_DIR\" -g -o CMakeFiles/Transformation.dir/main.o -c \"/home/icecreamsakaz/桌面/CG learning/GAMES101/pa0/pa0/main.cpp\"",
+  "file": "/home/icecreamsakaz/桌面/CG learning/GAMES101/pa0/pa0/main.cpp"
+}
+]

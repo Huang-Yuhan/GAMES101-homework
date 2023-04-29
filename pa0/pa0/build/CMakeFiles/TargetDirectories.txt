@@ -1,0 +1,3 @@
+/home/icecreamsakaz/桌面/CG learning/GAMES101/pa0/pa0/build/CMakeFiles/Transformation.dir
+/home/icecreamsakaz/桌面/CG learning/GAMES101/pa0/pa0/build/CMakeFiles/edit_cache.dir
+/home/icecreamsakaz/桌面/CG learning/GAMES101/pa0/pa0/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.intelliSenseMode": "linux-clang-x64",
+    "C_Cpp.default.cppStandard": "c++11",
+    "C_Cpp.default.cStandard": "c11",
+    "cmake.configureOnOpen": true
+}
